@@ -1,5 +1,6 @@
 ### Hi there 👋
-![image](https://media.giphy.com/media/VFNPx65aR69ryYBrS2/giphy.gif)
+![image](https://media.giphy.com/media/UTG7fHUdkpIP9HAJCw/giphy.gif)
+
 
 <!--
 **Nima-abdoli/Nima-Abdoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
